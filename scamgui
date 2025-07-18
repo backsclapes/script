@@ -4,8 +4,8 @@ screenGui.Name = "ScamTradeGUI"
 screenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui
 
 local frame = Instance.new("Frame")
-frame.Size = UDim2.new(0, 300, 0, 150)
-frame.Position = UDim2.new(0.5, -150, 0.5, -75)
+
+frame. = UDim2.new(0.5, -150, 0.5, -75)
 frame.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
 frame.BorderSizePixel = 0
 frame.Parent = screenGui
