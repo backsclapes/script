@@ -1,7 +1,7 @@
 -- Create the GUI
 local screenGui = Instance.new("ScreenGui")
 screenGui.Name = "ScamTradeGUI"
-screenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+screenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui
 
 local frame = Instance.new("Frame")
 frame.Size = UDim2.new(0, 300, 0, 150)
